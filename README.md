@@ -58,4 +58,4 @@ Si el token caduca o no es válido, el script te pedirá que ingreses uno nuevo 
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está licenciado bajo la Licencia GPL v3. Para más detalles, consulta el archivo [LICENSE](LICENSE).
