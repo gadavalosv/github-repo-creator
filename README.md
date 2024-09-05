@@ -56,6 +56,22 @@ Si el token caduca o no es válido, el script te pedirá que ingreses uno nuevo 
 - **Privacidad del repositorio**: Se te preguntará si deseas que el repositorio sea público o privado.
 - **Manejo de tokens**: Si el token almacenado es inválido o ha expirado, se te proporcionará un enlace para generar uno nuevo y actualizar el archivo.
 
+## ¡Haz Fork y Contribuye!
+
+Si encuentras útil este proyecto, ¡te invito a hacer un fork! Siéntete libre de mejorar el código, agregar funcionalidades o adaptarlo a tus necesidades. Todas las contribuciones son bienvenidas.
+
+Para hacer un fork, simplemente haz clic en el botón de "Fork" en la parte superior de esta página y comienza a trabajar en tu versión del proyecto. ¡Espero ver tus aportaciones!
+
+## Cómo Contribuir
+
+1. Haz un fork de este repositorio.
+2. Crea una nueva rama (`git checkout -b feature/tu-feature`).
+3. Realiza tus cambios y haz commit (`git commit -m 'Agregar nueva funcionalidad'`).
+4. Haz push a la rama (`git push origin feature/tu-feature`).
+5. Abre un Pull Request.
+
+Si tienes ideas, dudas o mejoras, no dudes en abrir un Issue. ¡La comunidad está aquí para apoyarte!
+
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia GPL v3. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está licenciado bajo la Licencia Pública General de GNU v3, lo que significa que cualquier versión derivada debe ser de código abierto. Lee más en [LICENSE](./LICENSE).
